@@ -1,3 +1,5 @@
+# 100 Python Project Ideas for Beginner to Advance
+
 Python is a versatile and beginner-friendly programming language that offers endless possibilities for project development. Whether you're a novice programmer looking to practice your Python skills or an aspiring developer eager to dive into real-world applications, engaging in hands-on projects is a fantastic way to enhance your learning experience. In this article, we will explore ten exciting Python project ideas that are perfect for beginners. These projects will not only sharpen your programming abilities but also enable you to create practical and useful applications.
 
 1. **Hello, World! program**: The classic introductory program that prints "Hello, World!" to the console.
